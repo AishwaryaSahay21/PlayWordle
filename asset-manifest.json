@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PlayWordle/static/css/main.aad7332f.css",
+    "main.js": "/PlayWordle/static/js/main.53a8571d.js",
+    "static/js/787.e01666d6.chunk.js": "/PlayWordle/static/js/787.e01666d6.chunk.js",
+    "static/media/wordbank.txt": "/PlayWordle/static/media/wordbank.d1e180c0e95e817784be.txt",
+    "index.html": "/PlayWordle/index.html",
+    "main.aad7332f.css.map": "/PlayWordle/static/css/main.aad7332f.css.map",
+    "main.53a8571d.js.map": "/PlayWordle/static/js/main.53a8571d.js.map",
+    "787.e01666d6.chunk.js.map": "/PlayWordle/static/js/787.e01666d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aad7332f.css",
+    "static/js/main.53a8571d.js"
+  ]
+}
